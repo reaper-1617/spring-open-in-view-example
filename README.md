@@ -1,0 +1,1 @@
+# spring-open-in-view-example
